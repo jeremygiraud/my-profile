@@ -1,0 +1,53 @@
+style.css
+
+body {
+  margin: 10px;
+  background: rgb(40, 40, 40);
+  color: rgb(20, 20, 20);
+  font-family: Helvetica, sans-serif;
+	font-size: 18px;
+  font-weight: lighter;
+}
+h1, h2, h3, h4 {
+  font-family: Courier;
+  font-weight: bold;
+}
+h1 {
+  font-family: 'Roboto', sans-serif;
+	font-size: 35px;
+   color: #293462;
+}
+h2 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 22px;
+  color: #39375b;
+}  
+h3 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 22px;
+  border-image-width: 50px;
+   color: #293462;  
+} 
+h4 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 22px;
+  color:red;
+  text-decoration: gold;
+}
+a:hover {
+  color: gold;
+}
+
+
+
+
+
+
+
+.card-white {
+  background-color: white;
+  border-radius: 4px;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(50,50,93,.11);
+  padding: 16px;
+  margin: 16px 0px;
